@@ -1,0 +1,9 @@
+### in order to install ghost cli 
+  npm install ghost-cli@latest -g
+
+### to run project 
+ ghost start
+
+### if you do changes in cofiguaration file
+ghost restart
+
